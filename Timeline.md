@@ -1,16 +1,23 @@
 ---
 author: "Kimmy Navarro"
+title: "Timeline"
+Date: "2024-02-05"
 output: html_document
 ---
 
 Timeline
+<ul>Week 1 Design
+<li>Finding information and resources available to utilize for our research.</li>
+<li>Importing the data sources that are necessary and important for our topic.</li>
+<li>Drafting ideas for how our dashboard will be presented and what key ideas we
+want to use.</li>
+<li>Stating our objectives of what we want to accomplish with our findings.</li>
+<li>Potentially start a proposal repository on GitHub</li>
+ 
+</ul>
 ● Week 1 Design:
 ○ Finding information and resources available to utilize for our research.
-○ Importing the data sources that are necessary and important for our topic.
-○ Drafting ideas for how our dashboard will be presented and what key ideas we
-want to use.
-○ Stating our objectives of what we want to accomplish with our findings.
-○ Potentially start a proposal repository on GitHub
+○
 ● Week 2 Prototype:
 ○ Officially creating a repository on GitHub
 ○ Analyzing our gathered data by filtering through what variables we want to focus
