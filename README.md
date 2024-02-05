@@ -15,4 +15,4 @@ output: html_document
 Project Proposal</h1></br><br>
 
 
-<img src="spidey.png" alt="Across the Spiderverse Movie Poster 2023" >
+<img src="images/spidey.png" alt="Across the Spiderverse Movie Poster 2023" >
