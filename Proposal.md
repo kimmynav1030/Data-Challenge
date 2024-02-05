@@ -1,7 +1,7 @@
 ---
-title: "Proposal"
-author: "Kimmy Navarro"
-date: "2024-02-04"
+Title: "Proposal"
+Authors: "Drake, David, and Kimmy"
+Date: "2024-02-04"
 output: html_document
 ---
 Notes for Data organization
