@@ -9,3 +9,4 @@
 <h1>The Change in the Relevance of the Animation Industry
 Project Proposal</h1></br><br>
 <h1>Introduction</h1>
+<img src = "images/spidey.png" alt = "Across the Spiderverse Movie Poster 2023">
