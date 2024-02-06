@@ -27,17 +27,7 @@ as using Tableau, for example.</li><</ul>
 <ul>Week 3 Build:
 <li>Processing and finalizing our data and dashboards, making sure everything is well organized and aesthetically pleasing.</li>
 <li>Summarizing our findings by grouping data sets, omitting anything unnecessary</li>
-</ul>
-<ul>Week 3 Build:</ul>
-<li>Processing and finalizing our data and dashboards, making sure everything is well organized and aesthetically pleasing.</li>
-<li>Summarizing our findings by grouping data sets, omitting anything unnecessary</li>
 <li>Adding textual information to our proposal for background information, context, and relevance–why it’s important.</li></ul>
-
-<ul>Week 4 Deploy:
-<li>Using feedback given by the professor as well as our peers, we will make
-keynotes on what we need to improve or change.</li>
- <li></li>
-</ul>
 
 <ul>Week 4 Deploy:
 <li>Using feedback given by the professor as well as our peers, we will make
